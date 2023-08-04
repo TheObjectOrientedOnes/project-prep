@@ -27,7 +27,7 @@
 - Social media sites now 'do it all.' this leads to cognitive overload, especially for family members that aren't computer-friendly. I aim to simplify social media for family sharing of wedding photos, family gathering photos, and family trip plans.
   
 **Minimum Viable Product (MVP) definition:**
-- Site that requires login, stores a hashed and salted password, allows upload and download of images, and access to a calendar that can be edited
+- Site has Login/Signup Page. User has a user page. Family has Family Page with events organized by date displayed on Family Page. Admin has admin page to approve/deny requests.
   
 **What is the minimum required for you to present on your demo day?**
 - Site that requires login, stores a hashed and salted password, allows upload and download of images, and access to a calendar that can be edited

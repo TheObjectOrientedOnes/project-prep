@@ -54,7 +54,7 @@ Code Fellows Java 401 Project Week Prep Documents
   * We will have 1-on-1 discussion. Responsbility will fall upon the individual who notices it first to bring up the issue immediately.
 
 * *How and when will you escalate the conflict if your resolution attempts are unsuccessful?*
-  * Should all attempts at a peaceful resolution fail, speed and violence of action will be the ultimate checkmate. But we could probably call in some help from Audrey before we resort to violence.
+  * Should all attempts at a peaceful resolution fail, call in the instructor.
 
 ### Communication Plan
 
